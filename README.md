@@ -9,7 +9,6 @@ I love building clean, functional, and user-friendly applications. 🎨💻
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)
-* 🧠  Exploring: full-stack development  
 * 👥  I'm looking to collaborate on web projects , and mobile applications.
 * 💬  Fun fact: I play six instruments 🎸🎹🎻🎸🥁  I’m aiming to compose code by day and melodies by night 💻
 

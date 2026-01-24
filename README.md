@@ -19,7 +19,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a **full-stack developer** who enjoys building complete products —  
+I'm a **full-stack developer** who enjoys building complete products   
 from backend logic to clean, usable interfaces.
 
 - 🌍 Based in **Lebanon**

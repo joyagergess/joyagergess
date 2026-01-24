@@ -25,12 +25,13 @@
 </p>
 
 <br/>
-
 <p>
   <strong>Email:</strong>
- **Email:** [gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)
-
+  <span style="color:#7C7CFF;">
+    <a href="mailto:gergessjoya@gmail.com">gergessjoya@gmail.com</a>
+  </span>
 </p>
+
 
 
 

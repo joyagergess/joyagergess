@@ -47,7 +47,7 @@
           width="320"
         />
         <br/>
-        <i>I play 6 instruments — somehow my keyboard joined the band too</i>
+        <i>I play 6 instruments and somehow my keyboard joined the band too</i>
       </td>
 
   

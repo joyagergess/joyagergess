@@ -26,6 +26,27 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt4ODVhYjF4NW0wZnVhZWZrdWFuaDZiMWh0ZGJxYnY0cmczajUxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCmX20kwtcEjVubSfr/giphy.gif" width="360" />
 </p>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<strong>Full-stack Developer</strong><br/>
+
+<br/><br/>
+
+<span style="color:#9CA3AF;">Based in Lebanon</span><br/>
+<a href="mailto:gergessjoya@gmail.com" style="color:#3B82F6; text-decoration:none;">
+  gergessjoya@gmail.com
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <p align="center">
   <i>I play 6 instruments , somehow my keyboard joined the band too 💻</i>
 </p>

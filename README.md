@@ -9,8 +9,7 @@
 
 ### About me
 
-**Full-stack developer** based in **Lebanon**, focused on building production-ready
-web and mobile applications with clean architecture, performance, and usability in mind.
+**Full-stack developer** based in **Lebanon**, 
 
 📧 **Email:** [gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)
 

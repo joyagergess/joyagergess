@@ -39,8 +39,7 @@ Automation & Integration
 <p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="36" /> </p> <p> n8n · API Integration · Email Parsing · Data Extraction · Queues </p>
 Tools & Cloud
 <p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" /> </p>
-AI & Data
-<p align="left"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="36" /> </p> <p> Retrieval-Augmented Generation (RAG) · Embeddings · Prompt Design </p>
+
 
 ---
 

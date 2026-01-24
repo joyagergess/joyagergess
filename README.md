@@ -6,21 +6,7 @@
   />
 </p>
 
-<div align="center">
 
-<strong style="font-size:16px;">Full-stack developer</strong>
-
-<br/>
-
-<span style="color:#6B7280;">Based in Lebanon</span>
-
-<br/><br/>
-
-<a href="mailto:gergessjoya@gmail.com" style="text-decoration:none;">
-  <strong style="color:#3B82F6;">gergessjoya@gmail.com</strong>
-</a>
-
-</div>
 
 
 

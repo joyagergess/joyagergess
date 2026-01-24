@@ -25,14 +25,7 @@
 </p>
 
 <br/>
-<p>
-  <strong>Email:</strong>
-  <span style="color:#7C7CFF;">
-    <a href="mailto:gergessjoya@gmail.com" style="text-decoration:none;">
-      gergessjoya@gmail.com
-    </a>
-  </span>
-</p>
+
 
 
 

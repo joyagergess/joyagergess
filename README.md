@@ -39,31 +39,29 @@ Tools & Cloud
 <p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" /> </p>
 
 
----
-
-### 🌐 Socials
-
-<p align="left">
-  <a href="https://www.github.com/joyagergess" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/joya-gergess-a22678292" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
-<a href="http://www.github.com/joyagergess">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyagergess&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=joyagergess&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+</p>
 
-<a href="http://www.github.com/joyagergess">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyagergess&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+</p>
 
-<a href="https://github.com/joyagergess">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyagergess&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyagergess&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyagergess&bg_color=1c1917&color=ffffff&line=0891b2&point=0891b2&area=true&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=joyagergess&theme=darkhub&no-frame=true&margin-w=10&column=6" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=joyagergess&label=Profile%20Views&color=0891b2&style=flat" />
+</p>

@@ -15,14 +15,10 @@
 
 <div align="center">
 
-### 👩‍💻 About Me
 
-<p>
-  I'm a <strong>full-stack developer</strong> who enjoys building complete products<br/>
-  from backend logic to clean, usable interfaces.
-</p>
 
-<br/>
+
+
 
 🌍 <strong>Lebanon</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
 ✉️ <a href="mailto:gergessjoya@gmail.com"><strong>gergessjoya@gmail.com</strong></a> &nbsp;&nbsp;•&nbsp;&nbsp;

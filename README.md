@@ -10,7 +10,6 @@
 
 
 
-<div align="center">
 
 
 
@@ -18,13 +17,6 @@
 
 
 
-
-</div>
-
----
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt4ODVhYjF4NW0wZnVhZWZrdWFuaDZiMWh0ZGJxYnY0cmczajUxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCmX20kwtcEjVubSfr/giphy.gif" width="360" />
-</p>
 
 <div align="center">
 
@@ -46,6 +38,12 @@
 </table>
 
 </div>
+---
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt4ODVhYjF4NW0wZnVhZWZrdWFuaDZiMWh0ZGJxYnY0cmczajUxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCmX20kwtcEjVubSfr/giphy.gif" width="360" />
+</p>
+
+
 
 <p align="center">
   <i>I play 6 instruments , somehow my keyboard joined the band too 💻</i>

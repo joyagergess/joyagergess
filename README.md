@@ -4,6 +4,12 @@
     width="360"
   />
 </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=750&lines=I+build+full-stack+applications+from+idea+to+production."
+    alt="I build full-stack applications from idea to production"
+  />
+</p>
 
 
 

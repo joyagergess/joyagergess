@@ -10,6 +10,11 @@
 
 **Full-stack developer** based in **Lebanon**
 
+Availability: Open to full-time, freelance, and collaboration opportunities
+Focus: Web and mobile applications, backend systems, API design
+
+
+
 📧 **Email:** [gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)
 
 ---

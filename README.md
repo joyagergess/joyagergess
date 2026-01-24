@@ -8,13 +8,17 @@
 
 <div align="center">
 
-<hr style="width:40%;"/>
+<strong style="font-size:16px;">Full-stack developer</strong>
 
-<strong>Full-stack developer</strong><br/>
-Based in Lebanon<br/>
-<a href="mailto:gergessjoya@gmail.com"><strong>gergessjoya@gmail.com</strong></a>
+<br/>
 
-<hr style="width:40%;"/>
+<span style="color:#6B7280;">Based in Lebanon</span>
+
+<br/><br/>
+
+<a href="mailto:gergessjoya@gmail.com" style="text-decoration:none;">
+  <strong style="color:#3B82F6;">gergessjoya@gmail.com</strong>
+</a>
 
 </div>
 

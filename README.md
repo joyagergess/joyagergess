@@ -8,7 +8,7 @@
 
 ---
 
-**Full-stack developer** based in **Lebanon**, 
+**Full-stack developer** based in **Lebanon**
 
 📧 **Email:** [gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)
 

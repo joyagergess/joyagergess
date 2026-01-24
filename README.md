@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=1800&color=3B82F6&center=true&vCenter=true&width=820&lines=I+build+full-stack+applications+from+idea+to+production.;I+turn+complex+requirements+into+clean+products.;I+care+about+architecture%2C+performance%2C+and+UX."
@@ -8,36 +7,13 @@
 
 
 
+### About me
 
+**Full-stack developer** based in **Lebanon**, focused on building production-ready
+web and mobile applications with clean architecture, performance, and usability in mind.
 
+📧 **Email:** [gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)
 
-
-
-
-
-
-
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<strong>Full-stack Developer</strong><br/>
-
-<br/><br/>
-
-<span style="color:#9CA3AF;">Based in Lebanon</span><br/>
-<a href="mailto:gergessjoya@gmail.com" style="color:#3B82F6; text-decoration:none;">
-  gergessjoya@gmail.com
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
 ---
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt4ODVhYjF4NW0wZnVhZWZrdWFuaDZiMWh0ZGJxYnY0cmczajUxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCmX20kwtcEjVubSfr/giphy.gif" width="360" />

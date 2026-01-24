@@ -6,8 +6,7 @@
 </p>
 
 
-
-### About me
+---
 
 **Full-stack developer** based in **Lebanon**, 
 

@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWoxbTlybGptODVzbm15NTl3cTJ2aG0xdmJsZ2ltYnVyaHBnemZyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTYxaG1wcWtrZ3lkN3Nhc2JlcDd1ZmdzeGdtbXN0ZXlxeTZ0YjNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yeE6B8nEKcTMWWvBzD/giphy.gif)" width="360" />
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY3YW1tYW4yOWtiMzlnd2Y1ZnI1OXg2MXk2dWpkYXFua3lxanRmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif"
+    width="360"
+  />
 </p>
+
 
 <h1 align="center">Hi! 👋</h1>
 

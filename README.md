@@ -62,6 +62,4 @@ Tools & Cloud
   <img src="https://github-profile-trophy.vercel.app/?username=joyagergess&theme=darkhub&no-frame=true&margin-w=10&column=6" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=joyagergess&label=Profile%20Views&color=0891b2&style=flat" />
-</p>
+

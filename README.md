@@ -37,30 +37,20 @@
 
 
 
-
-
 ---
 <div align="center">
   <table>
     <tr>
-      <!-- FIRST GIF + caption -->
       <td align="center">
         <img
           src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt4ODVhYjF4NW0wZnVhZWZrdWFuaDZiMWh0ZGJxYnY0cmczajUxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCmX20kwtcEjVubSfr/giphy.gif"
           width="320"
         />
         <br/>
-        <i>I play 6 instruments — somehow my keyboard joined the band too 💻</i>
+        <i>I play 6 instruments — somehow my keyboard joined the band too</i>
       </td>
 
-      <!-- SECOND GIF (no caption) -->
-      <td align="center">
-        <img
-          src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXY3eXhzajVnaWl6azB6YzhqZ3Rmd3g3eWd5Y2hsdHMyc203ajQ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpLVqOg8xTY3EmoYF7/giphy.gif"
-          width="320"
-        />
-      </td>
-    </tr>
+  
   </table>
 </div>
 

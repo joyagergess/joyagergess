@@ -8,15 +8,28 @@
 
 ---
 
-**Full-stack developer** based in **Lebanon**
+<p style="font-size:16px; margin-bottom:6px;">
+  <strong>Full-stack developer</strong>
+  <span style="color:#6B7280;"> based in </span>
+  <strong>Lebanon</strong>
+</p>
 
-Availability: Open to full-time, freelance, and collaboration opportunities
+<p style="color:#6B7280; margin:4px 0;">
+  Availability: Open to full-time, freelance, and collaboration opportunities
+</p>
 
-Focus: Web and mobile applications, backend systems, API design
+<p style="color:#6B7280; margin:4px 0;">
+  Focus: Web and mobile applications, backend systems, API design
+</p>
 
+<br/>
 
-
-📧 **Email:** [gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)
+<p>
+  <strong>Email:</strong>
+  <a href="mailto:gergessjoya@gmail.com" style="color:#3B82F6; text-decoration:none;">
+    gergessjoya@gmail.com
+  </a>
+</p>
 
 ---
 <p align="center">

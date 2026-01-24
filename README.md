@@ -8,6 +8,15 @@
 
 <h1 align="center">Hi! 👋</h1>
 
+### 👩‍💻 About Me
+
+I'm a **full-stack developer** who enjoys building complete products   
+from backend logic to clean, usable interfaces.
+
+- 🌍 Based in **Lebanon**
+- ✉️ Reach me at **[gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)**
+- 👥 Open to collaborations on **web & mobile applications**
+
 
 ---
 <p align="center">
@@ -20,15 +29,6 @@
 
 <br/>
 
-
-### 👩‍💻 About Me
-
-I'm a **full-stack developer** who enjoys building complete products   
-from backend logic to clean, usable interfaces.
-
-- 🌍 Based in **Lebanon**
-- ✉️ Reach me at **[gergessjoya@gmail.com](mailto:gergessjoya@gmail.com)**
-- 👥 Open to collaborations on **web & mobile applications**
 
 ---
 

@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=1800&color=3B82F6&center=true&vCenter=true&width=820&lines=I+build+full-stack+applications+from+idea+to+production.;I+turn+complex+requirements+into+clean+products.;I+care+about+architecture%2C+performance%2C+and+UX."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=1800&color=4F8DF7&center=true&vCenter=true&width=820&lines=I+build+full-stack+applications+from+idea+to+production.;I+turn+complex+requirements+into+clean+products.;I+care+about+architecture%2C+performance%2C+and+UX."
     alt="Typing animation"
   />
 </p>
+
 
 
 ---

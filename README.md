@@ -28,9 +28,12 @@
 <p>
   <strong>Email:</strong>
   <span style="color:#7C7CFF;">
-    <a href="mailto:gergessjoya@gmail.com">gergessjoya@gmail.com</a>
+    <a href="mailto:gergessjoya@gmail.com" style="text-decoration:none;">
+      gergessjoya@gmail.com
+    </a>
   </span>
 </p>
+
 
 
 

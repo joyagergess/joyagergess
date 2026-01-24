@@ -6,12 +6,6 @@
 </p>
 
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=800&color=16C784&center=true&vCenter=true&width=700&lines=I+build+full-stack+applications+from+idea+to+production.;I+care+about+clean+architecture+and+UX.;I+turn+ideas+into+real+products."
-    alt="Typing SVG"
-  />
-</p>
 
 <div align="center">
 

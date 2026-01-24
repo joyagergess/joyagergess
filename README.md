@@ -56,8 +56,5 @@ Tools & Cloud
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyagergess&bg_color=1c1917&color=ffffff&line=0891b2&point=0891b2&area=true&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=joyagergess&theme=darkhub&no-frame=true&margin-w=10&column=6" />
-</p>
 
 

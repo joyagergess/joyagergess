@@ -19,10 +19,12 @@
 
 
 
+<p align="center">
+  <strong>Lebanon</strong><br/>
+  <a href="mailto:gergessjoya@gmail.com"><strong>gergessjoya@gmail.com</strong></a><br/>
+  <strong>Open to collaborations</strong>
+</p>
 
-🌍 <strong>Lebanon</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
-✉️ <a href="mailto:gergessjoya@gmail.com"><strong>gergessjoya@gmail.com</strong></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-👥 <strong>Open to collaborations</strong>
 
 </div>
 
